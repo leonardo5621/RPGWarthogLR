@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500949445 source:c:\users\leonardo\desktop\10310811\rpg2\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
