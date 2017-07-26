@@ -1,0 +1,4 @@
+Nesta pasta estão todos os arquivos das classes desenvolvidas
+O arquivo RPGW.cpp contém a função principal
+Devido a alguns erros que o compilador apresentou não foi possível deixar as classes separadas em headers, portanto
+juntei todas elas no arquivo RPGW.cpp
